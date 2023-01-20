@@ -1,2 +1,10 @@
-# twrp_device_samsung_j7toplteskt
-build with https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni/tree/twrp-8.1
+# Android device tree for samsung SM-J737S (j7toplteskt)
+
+```
+#
+# Copyright (C) 2023 The Android Open Source Project
+# Copyright (C) 2023 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
