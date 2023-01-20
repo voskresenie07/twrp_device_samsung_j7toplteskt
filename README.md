@@ -7,4 +7,5 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
+prebuilt dt.img and kernel : https://github.com/voskresenie07/kernel_j7toplteskt_patched
 ```
